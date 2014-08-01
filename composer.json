@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SugiPHP\\Config\\": ""
+            "Fojuth\\Config\\": ""
         }
     },
     "minimum-stability": "dev"

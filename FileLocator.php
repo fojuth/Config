@@ -6,7 +6,7 @@
  * @license    http://opensource.org/licenses/mit-license.php (MIT License)
  */
 
-namespace SugiPHP\Config;
+namespace Fojuth\Config;
 
 /**
  * File Locator searches for a file in registered search paths.
