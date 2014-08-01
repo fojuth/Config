@@ -1,5 +1,5 @@
 {
-    "name": "sugiphp/config",
+    "name": "fojuth/config",
     "type": "library",
     "description": "SugiPHP Config Component",
     "keywords": ["config", "configuration", "PHP", "JSON", "yaml", "XML", "INI"],
